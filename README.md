@@ -9,3 +9,9 @@ GCP: https://docs.gcp.databricks.com/en/notebooks/databricks-assistant-faq.html<
 The Labs are available here: https://github.com/RafiKurlansik/dbiq_demos
 
 ### Slides
+
+
+### Agenda
+- Presentation (1 hour)
+- Labs (1 to 3 hours)
+
