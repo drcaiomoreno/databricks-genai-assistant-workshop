@@ -1,7 +1,8 @@
 # Databricks Gen AI Assistant Workshop
-The aim of this repo is to help customers, partners and the Databricks Community to understand about Databricks Gen AI Assistant and test it. 
+The aim of this repo is to help customers, partners and the Databricks Community to understand about Databricks Gen AI Assistant.
 
 ### Agenda
+This workshop is divided in two parts:
 - Presentation (1 hour), see Slide Session.
 - Labs (1 to 3 hours), see Lab Session
 
